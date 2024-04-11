@@ -9,7 +9,7 @@ I'm Ayush Ratan a Web Developer . My passion for developing lies with dreaming u
 
 <br>
 <!-- :mailbox : Reach me out! -->
-<p>Find out more about me & feel free to connect with me here:<img style="display: inline-block" src="Handshake.gif" height="33px" /></p>
+<p>Find out more about me & feel free to connect with me here:<img style="display: inline-block"  src="Handshake.gif" height="33px" /></p>
 <br><br>
 
 
