@@ -29,7 +29,9 @@ I'm Ayush Ratan a Web Developer . My passion for developing lies with dreaming u
 - 📫 How to reach me: ayushratan082@gmail.com.
 
 ---
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushRatan1&theme=tokyonight&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AyushRatan1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
