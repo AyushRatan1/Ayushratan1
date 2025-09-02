@@ -4,18 +4,19 @@
   <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png" alt="Ayush Ratan Banner" width="100%">
 </div>
 
-## 💫 About Me
-
-I'm a passionate Web Developer who thrives on turning creative ideas into elegant, functional interfaces. I love bringing concepts to life through code and design, creating seamless user experiences that make an impact.
+I’m an engineering student at RV College of Engineering, Bangalore, passionate about building impactful digital experiences at the intersection of AI, cloud infrastructure, and full-stack development. With hands-on experience in React, Next.js, Python, and cloud-native solutions (AWS, Azure, Kubernetes), I thrive on turning complex problems into elegant, scalable applications.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 👨‍💻 Currently working on expanding my web development portfolio
-- 🌱 Learning and exploring advanced React and Next.js techniques
-- 👨‍👦‍👦 I enjoy collaborating with others and solving challenging problems together
-- 💬 Ask me about JavaScript, React, or front-end development
-- ⚡ Fun fact: When I'm not coding, you might find me [your hobby/interest]
+👨‍💻 Currently working as an AI Intern at OnFinance AI, designing multi-agent AI platforms and scalable cloud deployments.
 
+🌱 Exploring advanced AI workflows, LLMs, and cloud-native architectures while deepening my expertise in React & Next.js.
+
+🚀 Past work includes building an AI-powered car dashboard with Wipro–IISc and leading the development of VED-AI, a chatbot powered by RAG-based AI and custom knowledge graphs.
+
+👨‍👦‍👦 I enjoy collaborating in cross-functional teams, blending product vision with technical execution.
+
+⚡ Fun fact: Outside of tech, I love organizing impactful initiatives, such as leading AIESEC’s drive to distribute menstrual health kits to rural women.
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -30,28 +31,7 @@ I'm a passionate Web Developer who thrives on turning creative ideas into elegan
   </a>
 </p>
 
-## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,nextjs,react,svelte,supabase,arduino,git" alt="Skills" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
@@ -63,11 +43,6 @@ I'm a passionate Web Developer who thrives on turning creative ideas into elegan
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRatan1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushRatan1&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
