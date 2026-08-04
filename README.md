@@ -33,16 +33,6 @@ I’m an engineering student at RV College of Engineering, Bangalore, passionate
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushRatan1&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRatan1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 
 ---
 
